@@ -1,0 +1,20 @@
+--2023-01-28 22:14:53--  https://raw.githubusercontent.com/github/gitignore/master/Global/VisualStudioCode.gitignore
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.110.133, 185.199.109.133, 185.199.108.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.110.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 220 [text/plain]
+Saving to: ‘VisualStudioCode.gitignore’
+
+     0K                                                       100% 16,0M=0s
+
+2023-01-28 22:14:53 (16,0 MB/s) - ‘VisualStudioCode.gitignore’ saved [220/220]
+
+--2023-01-28 22:14:53--  http://xn--yba/
+Resolving xn--yba (xn--yba)... 77.247.179.91
+Connecting to xn--yba (xn--yba)|77.247.179.91|:80... connected.
+HTTP request sent, awaiting response... 429 Too Many Requests
+2023-01-28 22:14:54 ERROR 429: Too Many Requests.
+
+FINISHED --2023-01-28 22:14:54--
+Total wall clock time: 0,5s
+Downloaded: 1 files, 220 in 0s (16,0 MB/s)
